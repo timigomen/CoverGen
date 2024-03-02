@@ -2,7 +2,7 @@
 CoverGen - 简单易上手的博客文章封面生成器
 
 # 在线使用
-![https://timigomen.github.io/CoverGen/](https://timigomen.github.io/CoverGen/)
+[https://timigomen.github.io/CoverGen/](https://timigomen.github.io/CoverGen/)
 
 # 设计理念
 参考[@zhheo](https://blog.zhheo.com/p/463d306b.html)，采用ZHHEO的第七代封面设计
